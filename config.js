@@ -10,7 +10,9 @@ global.owner = [
   ['918005077049', 'Sairo', true],
   ['916394869538', 'Arm', true], 
   ['916392780934', 'Ryzen', true],
-  ['']
+  ['916386121078', '2d Array', true],
+  ['15813171296', 'Shadow', true],
+  []
 ] //Number of owners
 
 global.mods = ['918005077049','916394869538'] 
@@ -58,7 +60,7 @@ global.fgsc = 'UwU'
 global.fgyt = 'jsxnakjsnx'
 global.fgpyp = 'hello'
 global.fglog = 'https://images7.alphacoders.com/105/1054068.png' 
-global.dbase = 'mongodb+srv://saini:saini @cluster0.rmgsrm0.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://saini:saini@cluster0.nvvxmoz.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
